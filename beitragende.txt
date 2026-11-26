@@ -9,6 +9,7 @@ Hier haben alle mitgewirkt, die zu diesem Projekt beigetragen haben:
 - Marie G. (DBE-Academy Team) 
 - Julian Schmitt (Git-Neuling)
 - Claudia Lehmann (Git-Lehrling)
+- Isabelle Henn
 - Claudia Kremer (Git-Lehrling)
 - Sepehr Banani (Git-Lernender)
 - Marc Wildermuth (Git-Lerner)
