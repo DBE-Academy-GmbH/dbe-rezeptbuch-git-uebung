@@ -9,6 +9,8 @@ Hier haben alle mitgewirkt, die zu diesem Projekt beigetragen haben:
 - Marie G. (DBE-Academy Team) 
 - Julian Schmitt (Git-Neuling)
 - Claudia Lehmann (Git-Lehrling)
-- Marc Wildermuth (Git-Lerner)
 - Sepehr Banani (Git-Lernender)
+- Marc Wildermuth (Git-Lerner)
+- Sergiy Nesenenko
+
 [Füge hier deinen Namen hinzu, wenn du das Repository geklont hast und ein Rezept hinzugefügt hast!]
