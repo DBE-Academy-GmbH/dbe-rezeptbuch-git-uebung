@@ -5,17 +5,19 @@ Willkommen zum Git-Übungsprojekt der DBE-Academy!
 ## Über dieses Projekt
 
 Dieses Repository ist dein Übungsplatz für Git. Hier lernst du:
+
 - Wie man ein Repository klont
 - Wie man Änderungen vornimmt
 - Wie man Commits erstellt
 - Wie man mit anderen zusammenarbeitet
 
 ## Was findest du hier?
+
 - **rezepte/**: Eine Sammlung leckerer Rezepte
 - **beitragende.txt**: Alle, die an diesem Projekt mitgearbeitet haben
 - **tipps-und-tricks.txt**: Nützliche Küchentipps
 
-##Deine Aufgabe
+## Deine Aufgabe
 
 1. Klone dieses Repository auf deinen Computer.
 2. Öffne die Datei 'beitragende.txt' und füge deinen Namen hinzu, z.B. Max Mustermann.
